@@ -1,0 +1,60 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/jlt03/24/blob/master/FIRE%20Logo_64.png?raw=true",
+        "url_png_logo": "https://github.com/jlt03/24/blob/master/FIRE%20Logo.png?raw=true",
+        "location": "United States",
+        "social": {
+            "twitter_handle": "fire_stake",
+            "telegram_handle": "firestakepool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "FireStakePool",
+            "addr": "N/A",
+            "city": "",
+            "country": "United States",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Owner of Fire Stake Pool",
+            "server": "A variety of VPS from different Service Providers Across the World for Stability and Rundnancy!",
+            "company": "FireStakePool"
+        },
+        "rss": "http(s) url to valid RSS feed"
+    },
+    "my-pool-ids": {
+        "0": "8f8fc899b4bc4b19bdae04049755bbcce8cfee7b5260dc09b161553d",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1 eu",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "1": {
+                "name": "relay 2 usa",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "2": {
+                "name": "block producer home",
+                "type": "bp",
+                "key": "example_get_own_on_adapools.org/connect"
+            }
+        }
+    }
+}
